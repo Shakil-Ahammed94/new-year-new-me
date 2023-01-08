@@ -1,10 +1,11 @@
 
 *{
     margin: 0 auto;
+    font-family: 'Work Sans';
     
 }
 
-
+/*banner section starts */
 .banner{
     background-color: azure;
     background-image: url(../images/banner/banner3.png);
@@ -38,6 +39,10 @@
     border-radius: 1px solid ;
     box-sizing: border-box;
 }
+
+/*banner section ends */
+
+/*contents section starts */
 
 .content{
   width: 60%;
@@ -90,6 +95,12 @@ ul {
     color: green;
     
   }
+
+
+  /*contents section ends */
+
+  /*feature section starts */
+
   .feature-heading{
     text-align: center;
     margin-top: 100px;
@@ -98,6 +109,11 @@ ul {
   .feature-content{
     margin-bottom:30px;
   }
+
+
+  /*feature section ends */
+
+  /*skill section starts */
   .skill{
     margin: 20px 100px;
 
@@ -116,6 +132,10 @@ ul {
     line-height: 25px;
 
   }
+
+  /*skill section ends */
+
+  /*main section starts */
   
   .main{
     background-color: azure;
@@ -141,6 +161,10 @@ ul {
     padding-top: 60px;
     
 }
+
+/*main section starts */
+
+/*footer section starts */
 .footer{
     width:80% ;
     background: #151414;
@@ -194,15 +218,17 @@ ul {
 .subscribe{
     font-size: 25px;
     margin-bottom: 10px;
+
 }
 
 .form-style{
     margin-bottom: 8px;
+    padding: 5px;
     
     
 }
 
-
+/*feature section starts */
 
 
 
